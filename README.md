@@ -2,6 +2,10 @@
 
 Comparing Different AWS Services Series' Articles
 
+Feel free to make suggestions, I am open to any advice! You can reach me on [Twitter](https://twitter.com/adi_12_modi) or [LinkedIn](https://www.linkedin.com/in/adit-modi-2a4362191/).
+
+##### Enjoy! 😉👍
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=/AditModi/Comparing-Different-AWS-Services)[![Website](https://img.shields.io/website?label=Dev.to&up_message=@aditmodi&url=https%3A%2F%2Fdev.to/aditmodi)](https://dev.to/aditmodi) 
 
 ![Comparing-Different-AWS-Services](https://user-images.githubusercontent.com/48589838/177519581-27bc453c-54e2-4266-b996-96e1134e37c1.jpg)
